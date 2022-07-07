@@ -1,0 +1,11 @@
+.exhibit h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.exhibit {
+    box-shadow: 1px;
+    border-radius: 2%;
+    padding: 2%;
+}
